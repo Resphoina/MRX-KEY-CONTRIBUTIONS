@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/8-000/8-002/obsidian-digital-garden-publish/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/(8_000)(查询系统)/(8_002)(发布出版)/√Obsidian Digital Garden Publish/","tags":"gardenEntry"}
 ---
 
 
