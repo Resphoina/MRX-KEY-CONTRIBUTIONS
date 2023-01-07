@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-021/20221110-000-p-table-compare/"}
+{"dg-publish":true,"permalink":"/(2_021)(算法解析)/√(20221110)-(过程解析)-(000)-(数仓)-(比较数据库表行数差异-P_TABLE_COMPARE)/"}
 ---
 
 
